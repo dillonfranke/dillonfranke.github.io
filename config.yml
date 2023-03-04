@@ -1,6 +1,6 @@
 baseURL: https://dillonfranke.github.io
 languageCode: en-us
-title: Dillon Franke Security
+title: Dillon Franke's Security Blog
 theme: PaperMod
 params:
   enableEmoji: true
@@ -10,7 +10,7 @@ params:
   ShowPostNavLinks: true
   homeInfoParams:
     Title: "Hi, I’m Dillon!"
-    Content: I’m a hacker/red teamer/reverse engineer with a passion for finding impactful vulnerabilities in highly used products and libraries. With experience in various programming languages and expertise in penetration testing and exploit development, I've identified and exploited numerous critical vulnerabilities. I’d love to share with you what I’ve learned here!
+    Content: I’m a hacker/red teamer/reverse engineer with a passion for finding impactful vulnerabilities in highly used products and libraries. With experience in various programming languages and expertise in penetration testing and exploit development, I've identified and exploited numerous critical vulnerabilities. I’d love to share with you what I’ve learned here on my blog!
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/dillonfranke/"
