@@ -2,7 +2,7 @@ baseURL: https://www.dillonfrankesecurity.com
 languageCode: en-us
 title: Dillon Franke's Security Blog
 theme: PaperMod
-disqusShortname: dillon-franke-blog.disqus.com
+disqusShortname: dillon-franke-blog
 params:
   enableEmoji: true
   comments: true
