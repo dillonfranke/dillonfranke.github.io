@@ -1,18 +1,21 @@
 baseURL: https://www.dillonfrankesecurity.com
 languageCode: en-us
-title: Dillon Franke's Security Blog
+title: Dillon Franke Security
 theme: PaperMod
 disqusShortname: dillon-franke-blog
+taxonomies:
+  tags: ""
+  categories: ""
 params:
   enableEmoji: true
   comments: true
   ShowReadingTime: true
   ShowToc: true
-  TocOpen: false
+  TocOpen: true
   ShowPostNavLinks: true
   homeInfoParams:
-    Title: "Hi, I’m Dillon!"
-    Content: I’m a hacker/red teamer/reverse engineer with a passion for finding impactful vulnerabilities in highly used products and libraries. With experience in various programming languages and expertise in penetration testing and exploit development, I've identified and exploited numerous critical vulnerabilities. I’d love to share with you what I’ve learned here on my blog!
+    Title: "I break it so attackers don't."
+    Content: I’m a hacker/red teamer/reverse engineer with a passion for finding impactful vulnerabilities in highly used products and libraries. With experience in multiple programming languages and expertise in penetration testing and exploit development, I've identified and exploited numerous critical vulnerabilities.
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/dillonfranke/"
@@ -20,3 +23,32 @@ params:
       url: "https://twitter.com/dillon_franke"
     - name: "GitHub"
       url: "https://github.com/dillonfranke"
+    - name: "RSS"
+      url: "/index.xml"
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
+    - identifier: blog
+      name: Blog
+      url: /posts
+      weight: 10
+    - identifier: presentations
+      name: Presentations
+      url: /presentations
+      weight: 20
+    - identifier: services
+      name: Services
+      url: /services
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 40
