@@ -1,0 +1,20 @@
+{{- $title := .Get "title" -}}
+{{- $imgsrc := .Get "imgsrc" -}}
+{{- $tagline := .Get "tagline" -}}
+<article class="service-entry">
+    <h2 style="margin-top: 7px">{{ $title }}</h2>
+    <p><i>{{ $tagline }}</i></p>
+    {{- if $imgsrc }}
+    <img src={{ $imgsrc }}>
+    {{ end }}
+    <ul>
+        {{ range (split (default "" (.Get "listitems")) ";") }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    <a class="button" href="/contact" rel="noopener" title="Learn more">
+        <span class="button-inner">
+            Learn More
+        </span>
+    </a>
+</article>
