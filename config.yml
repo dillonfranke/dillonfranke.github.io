@@ -3,9 +3,6 @@ languageCode: en-us
 title: Dillon Franke Security
 theme: PaperMod
 disqusShortname: dillon-franke-blog
-taxonomies:
-  tags: ""
-  categories: ""
 params:
   enableEmoji: true
   comments: true
