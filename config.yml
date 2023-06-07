@@ -4,6 +4,7 @@ title: Dillon Franke Security
 theme: PaperMod
 disqusShortname: dillon-franke-blog
 params:
+  defaultTheme: dark
   enableEmoji: true
   comments: true
   ShowReadingTime: true
