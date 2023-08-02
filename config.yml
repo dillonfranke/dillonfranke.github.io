@@ -36,17 +36,17 @@ menu:
       weight: 5
     - identifier: blog
       name: Blog
-      url: /posts
+      url: /posts/
       weight: 10
     - identifier: presentations
       name: Presentations
-      url: /presentations
+      url: /presentations/
       weight: 20
     - identifier: services
       name: Services
-      url: /services
+      url: /services/
       weight: 30
     - identifier: contact
       name: Contact
-      url: /contact
+      url: /contact/
       weight: 40
