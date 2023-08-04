@@ -89,13 +89,13 @@ Possibly the largest motivator for creating `ProtoBurp` was to generate a way to
 
 Normally, my next step would be to pass this request to `sqlmap` and have the database fully dumped within 30 minutes. However, I couldn't do this because of the pesky Protobufs.
 
-But now enter `ProtoBurp`. It is now possible to give `sqlmap` a JSON payload to test its payloads and let `ProtoBurp` handle the Protobuf encoding. We can now use the following command:
+But now enter `ProtoBurp`. It is now possible to give `sqlmap` a JSON object to insert payloads into and let `ProtoBurp` handle the Protobuf encoding. We can now use the following command:
 
 ```shell
 sqlmap -u http://chickenblasters.com:5000 --force-ssl --level 5 --risk 3 -H "ProtoBurp: true" --batch --proxy=http://localhost:8080 --data='{"people":[{"name":"JohnDoe","id":1,"email":"john.doe@example.com","phones":[{"number":"1234567890*","type":"PHONE_TYPE_MOBILE"},{"number":"0987654321","type":"PHONE_TYPE_HOME"}]}]}'
 ```
 
-> **Note**: Make sure to set pass the `ProtoBurp: True` header!
+> **Note**: Make sure to set the `ProtoBurp: True` header!
 
 All proxy traffic from `sqlmap` is then converted by `ProtoBurp`:
 
