@@ -23,6 +23,7 @@ params:
       url: "https://github.com/dillonfranke"
     - name: "RSS"
       url: "/index.xml"
+  ShowShareButtons: true
 outputs:
   home:
     - HTML
