@@ -2,7 +2,7 @@
 title: "ProtoBurp: Encode and Fuzz Custom Protobuf Messages in Burp Suite"
 date: 2023-08-02T14:22:41-07:00
 cover:
-    image: "/introducing-protoburp.png"
+    image: "/introducing-protoburp.jpg"
 ---
 
 # Background

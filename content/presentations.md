@@ -13,6 +13,12 @@ ShowShareButtons: false
 I have gained a wealth of knowledge at conferences listening to remarkable security researchers and am passionately committed to sharing my own lessons and discoveries at public forums.
 
 {{< presentation 
+    title="2024"
+    listitems=`<b>ShmooCon</b> (Washington, DC) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS</i> [<a href="https://www.shmoocon.org/speakers/#machfuzzing">Abstract</a>]
+    `
+>}}
+
+{{< presentation 
     title="2022"
     listitems=`<b>BlackHat USA Arsenal</b> (Las Vegas, NV) - <i>Route Sixty-Sink: Connecting Application Inputs to Sinks Using Static Analysis</i> [<a href="https://www.blackhat.com/us-22/arsenal/schedule/index.html#route-sixty-sink-connecting-application-inputs-to-sinks-using-static-analysis-27978">Abstract</a>];
     <b>TROOPERS</b> (Heidelberg, Germany) - <i>Route Sixty-Sink: Connecting Application Inputs to Sinks Using Static Analysis</i> [<a href="https://troopers.de/troopers22/agenda/tr22-1084-route-sixty-sink-connecting-application-inputs-to-sinks-using-static-analysis/">Abstract</a>];
