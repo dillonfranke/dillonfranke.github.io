@@ -15,7 +15,7 @@ I have gained a wealth of knowledge at conferences listening to remarkable secur
 {{< presentation 
     title="2024"
     listitems=`<b>ShmooCon</b> (Washington, DC) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS</i> [<a href="https://www.shmoocon.org/speakers/#machfuzzing">Abstract</a>] [<a href="/FuzzingAtMachSpeed-DillonFranke-Shmoocon2024.pdf">Slides</a>];
-    <b>Nullcon</b> (Berlin, Germany) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS</i> [<a href="https://nullcon.net/berlin-2024/speaker-fuzzing-at-mach-speed-uncovering-ipc-vulnerabilities-on-macos">Abstract</a>] [<a href="/DillonFranke_FuzzingAtMachSpeed-Nullcon2024.pdf">Slides</a>];
+    <b>Nullcon</b> (Berlin, Germany) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS</i> [<a href="https://nullcon.net/berlin-2024/speaker-fuzzing-at-mach-speed-uncovering-ipc-vulnerabilities-on-macos">Abstract</a>] [<a href="/DillonFranke_FuzzingAtMachSpeed-Nullcon2024.pdf">Slides</a>]
     `
 >}}
 
