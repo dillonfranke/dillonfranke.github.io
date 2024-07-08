@@ -16,7 +16,8 @@ I have gained a wealth of knowledge at conferences listening to remarkable secur
     title="2024"
     listitems=`<b>ShmooCon</b> (Washington, DC) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS</i> [<a href="https://www.shmoocon.org/speakers/#machfuzzing">Abstract</a>] [<a href="/FuzzingAtMachSpeed-DillonFranke-Shmoocon2024.pdf">Slides</a>];
     <b>Nullcon</b> (Berlin, Germany) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS</i> [<a href="https://nullcon.net/berlin-2024/speaker-fuzzing-at-mach-speed-uncovering-ipc-vulnerabilities-on-macos">Abstract</a>] [<a href="/DillonFranke_FuzzingAtMachSpeed-Nullcon2024.pdf">Slides</a>];
-    <b>CanSecWest</b> (Vancouver, Canada) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS/iOS</i> [<a href="https://www.secwest.net/presentations-2024/category/Dillon+Franke">Abstract</a>] [<a href="/DillonFranke_FuzzingAtMachSpeed-CanSecWest2024.pdf">Slides</a>]
+    <b>CanSecWest</b> (Vancouver, Canada) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS/iOS</i> [<a href="https://www.secwest.net/presentations-2024/category/Dillon+Franke">Abstract</a>] [<a href="/DillonFranke_FuzzingAtMachSpeed-CanSecWest2024.pdf">Slides</a>];
+    <b>TROOPERS</b> (Heidelberg, Germany) - <i>Fuzzing at Mach Speed: Uncovering IPC Vulnerabilities on MacOS/iOS</i> [<a href="https://troopers.de/troopers24/talks/lb9pjt/">Abstract</a>] [<a href="/Franke_Dillon_FuzzingAtMach_TROOPERS.pdf">Slides</a>]
     `
 >}}
 
