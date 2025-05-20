@@ -15,8 +15,7 @@ I have gained a wealth of knowledge at conferences listening to remarkable secur
 {{< presentation 
     title="2025"
     listitems=`
-    <b>OffensiveCon</b> (Berlin, Germany) - <i>Breaking the Sound Barrier: Exploiting CoreAudio via Mach Message Fuzzing</i> [<a href="https://www.offensivecon.org/speakers/2025/dillon-franke.html">Abstract</a>] [<a href="/OffensiveCon-2025-Breaking-the-Sound-Barrier.pdf">Slides</a>] [<a href="https://youtu.be/USQtPedx9Xg?feature=shared">Recording</a>];
-    `
+    <b>OffensiveCon</b> (Berlin, Germany) - <i>Breaking the Sound Barrier: Exploiting CoreAudio via Mach Message Fuzzing</i> [<a href="https://www.offensivecon.org/speakers/2025/dillon-franke.html">Abstract</a>] [<a href="/OffensiveCon-2025-Breaking-the-Sound-Barrier.pdf">Slides</a>] [<a href="https://youtu.be/USQtPedx9Xg?feature=shared">Recording</a>]`
 >}}
 
 {{< presentation 
