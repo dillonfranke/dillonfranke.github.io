@@ -1,7 +1,7 @@
 baseURL: https://www.dillonfrankesecurity.com
 languageCode: en-us
 title: Dillon Franke Security
-theme: PaperMod
+theme: PaperMod 
 disqusShortname: dillon-franke-blog
 params:
   defaultTheme: dark
@@ -11,6 +11,9 @@ params:
   ShowToc: true
   TocOpen: true
   ShowPostNavLinks: true
+  description: "Dillon Franke Security - Research, Exploitation, and Reverse Engineering"
+  keywords: [Security, Cybersecurity, Hacking, Reverse Engineering, Exploit Development, VR, Vulnerability Research]
+  author: Dillon Franke
   homeInfoParams:
     Title: "I break it so attackers don't."
     Content: I’m a hacker/red teamer/reverse engineer with a passion for finding impactful vulnerabilities in highly used products and libraries. With experience in multiple programming languages and expertise in penetration testing and exploit development, I've identified and exploited numerous critical vulnerabilities.
