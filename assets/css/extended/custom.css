@@ -1,6 +1,7 @@
 body {
     font-family: 'Figtree', sans-serif;
     font-weight: 400;
+    font-size: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -10,4 +11,58 @@ h1, h2, h3, h4, h5, h6 {
 
 b, strong {
     font-weight: 800;
+}
+
+.home-info .entry-content {
+    font-size: 20px;
+}
+
+/* Contact Form Styling */
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+.contact-form label {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 500;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 5px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--entry);
+    color: var(--primary);
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.contact-form textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.contact-form button {
+    background: var(--primary);
+    color: var(--theme);
+    border: none;
+    padding: 12px 24px;
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    align-self: flex-start;
+    transition: opacity 0.3s;
+}
+
+.contact-form button:hover {
+    opacity: 0.8;
 }
