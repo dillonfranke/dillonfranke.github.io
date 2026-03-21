@@ -15,7 +15,7 @@ I have gained a wealth of knowledge at conferences listening to remarkable secur
 {{< presentation 
     title="2025"
     listitems=`<b>Code Blue</b> (Tokyo, Japan) - <i>Breaking the Sound Barrier: Exploiting CoreAudio via Mach Message Fuzzing</i> [<a href="https://codeblue.jp/en/program/time-table/day1-t1-06/">Abstract</a>];
-    <b>OffensiveCon</b> (Berlin, Germany) - <i>Breaking the Sound Barrier: Exploiting CoreAudio via Mach Message Fuzzing</i> [<a href="https://offensivecon.org/speakers/2025/dillon-franke.html">Abstract</a>] [<a href="https://www.dillonfrankesecurity.com/OffensiveCon-2025-Breaking-the-Sound-Barrier.pdf">Slides</a>] [<a href="https://www.youtube.com/watch?v=USQtPedx9Xg">Recording</a>];
+    <b>OffensiveCon</b> (Berlin, Germany) - <i>Breaking the Sound Barrier: Exploiting CoreAudio via Mach Message Fuzzing</i> [<a href="https://offensivecon.org/speakers/2025/dillon-franke.html">Abstract</a>] [<a href="https://dillonfranke.com/OffensiveCon-2025-Breaking-the-Sound-Barrier.pdf">Slides</a>] [<a href="https://www.youtube.com/watch?v=USQtPedx9Xg">Recording</a>];
     <b>Objective By the Sea</b> (Ibiza, Spain) - <i>Breaking the Sound Barrier: Exploiting CoreAudio via Mach Message Fuzzing</i> [<a href="https://objectivebythesea.org/v8/talks.html#:~:text=Breaking%20the%20Sound%20Barrier%3A%20Exploiting%20CoreAudio%20via%20Mach%20Message%20Fuzzing">Abstract</a>] [<a href="https://objectivebythesea.org/v8/talks/OBTS_v8_dFranke.pdf">Slides</a>] [<a href="https://youtu.be/7ySMAcYiam0">Recording</a>]
     `
 >}}
